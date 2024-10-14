@@ -1,5 +1,3 @@
-# RecipeCollection
-
 # Recipe Collection
 
 A simple Django-based web application for storing and managing recipes. This project is designed to help users manage their recipes with features like adding, viewing, and editing recipe details.
